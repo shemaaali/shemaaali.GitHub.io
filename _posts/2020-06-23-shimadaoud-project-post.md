@@ -3,6 +3,12 @@ layout: post
 title: Is Uber Making New York City Traffic Worse?
 subtitle: Using Individual Daily Pick Up
 cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
+gh-repo: shemaaali
+/
+shemaaali.GitHub.io
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
 tags: [books, test]
 ---
 
