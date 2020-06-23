@@ -107,8 +107,8 @@ Here's a Graph of Insight: Hinter Base Traffic Monitoring on the Hinter Bases of
 
 ![Graph](https://cdn-images-1.medium.com/max/1200/0*W1EP0Dq27-k3g7Zn.png)
 
-**bold it text**
-Coding:
+
+# Coding:
 
 I have limited experience in coding: Some foundation in Python and very limited machine learning. But I'm lucky to have the chance to do a bit development with ipynb, so I have enough to start building an environment coding page with python.
 
