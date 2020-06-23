@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Uber Making New York City Traffic Worse?
-subtitle: Using Individual Daily Pick Up
+#subtitle: Using Individual Daily Pick Up
 cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
 tags: [books, test]
 ---
