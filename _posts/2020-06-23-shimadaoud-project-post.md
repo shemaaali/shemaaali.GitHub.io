@@ -198,7 +198,6 @@ plt.show()
 
 
 
-
 # Coding:
 
 I have limited experience in coding: Some foundation in Python and very limited machine learning. But I'm lucky to have the chance to do a bit development with ipynb, so I have enough to start building an environment coding page with python.
