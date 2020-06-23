@@ -7,7 +7,6 @@ gh-repo:shemaaali
 /
 shemaaali.GitHub.io
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 tags: [books, test]
 ---
