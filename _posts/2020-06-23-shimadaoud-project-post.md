@@ -24,7 +24,6 @@ Using individual daily pick up-level data to answer important questions on pick 
 
 
 
-
 ## New York City is the Biggest Market for Public Transit in the Country 
 
 
