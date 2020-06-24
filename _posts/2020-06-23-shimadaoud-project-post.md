@@ -8,8 +8,6 @@ cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
 title: Is Uber Making New York City Traffic Worse?
 
 
-subtitle: Using Individual Daily Pick Up
-
 comments: true
 
 tags: [books, test]
