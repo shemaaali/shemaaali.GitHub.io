@@ -1,9 +1,14 @@
 ---
 layout: post
+
 cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
 
-tittle: Is Uber Making New York City Traffic Worse?
+tittle: Uber Trip in New York City
+
+subtittle: Is Uber Making New York City Traffic Worse?
+
 comments: true
+
 tags: [books, test]
 ---
 
