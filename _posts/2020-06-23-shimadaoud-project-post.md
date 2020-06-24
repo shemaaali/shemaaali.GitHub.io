@@ -221,6 +221,7 @@ plt.show()
 ## Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
+
 It's seem that uber has less pickup on sunday and monday 
 the trend of pickup hour is as similar as observed in Unter traffic analysis.
 
