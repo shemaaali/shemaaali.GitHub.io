@@ -13,8 +13,6 @@ comments: true
 tags: [books, test]
 ---
 
-
-
 Using individual daily pick up-level data to answer important questions on pick up sharing services’ influence on markets, drivers, and citizens in New York city by the Data/Time, Lat, Lon, Base, Year, Month, Day of the Weeks, Hours, and Minutes.
 
 
@@ -29,15 +27,22 @@ But in New York overall, there isn’t much difference between the people picked
 Take a look at the maps we’ve produced below, which track pickups by Uber and taxis on a per capital basis, census tract by census tract. The data includes an adjustment for the ratio of residents to workers in each census tract, with the goal of identifying rides that originate from a person’s place of residence rather than where they work, shop, go to school or spend leisure time.
 
 
+## New York City is the Biggest Market for Public Transit in the Country 
 
-<img scr = "http://assets.pewresearch.org/wp-content/uploads/sites/12/2016/04/FT_16.04.06_pubTrans_metro.png"/>
+
+
+![New](http://assets.pewresearch.org/wp-content/uploads/sites/12/2016/04/FT_16.04.06_pubTrans_metro.png)
+
 
 
 As you can see, Uber and taxi usage have a lot in common. The correlation coefficient between per capita Uber use and per capita taxi use 3 is 0.89, not that far from a perfect correlation of 1. We can also consider these differences by various geographic and demographic categories on a scale where 100 represents average per capita residential usage.
 
 
+## The Correlation Coefficient Between Per Capita Uber use and Per Capita Taxi Use
 
-<img scr = "https://tse3.mm.bing.net/th?id=OIP.-MTsh0HdNoNFjZ245TtpzQHaIv&pid=Api&P=0&w=300&h=300"/>
+
+
+![Correlation](https://tse3.mm.bing.net/th?id=OIP.-MTsh0HdNoNFjZ245TtpzQHaIv&pid=Api&P=0&w=300&h=300)
 
 
 
@@ -45,7 +50,11 @@ Uber is introducing some cheaper services, such as its carpooling service UberPo
 
 
 
-<img scr = "https://tse4.mm.bing.net/th?id=OIP.ctdk3I3NxPBrg0ANPJVlegHaD3&pid=Api&P=0&w=297&h=156"/>
+## Cheapest Services Like Carpooling UberPool
+
+
+
+![Cheapest](https://tse4.mm.bing.net/th?id=OIP.ctdk3I3NxPBrg0ANPJVlegHaD3&pid=Api&P=0&w=297&h=156)
 
 
 
@@ -75,7 +84,6 @@ Uber is mostly busy around 3pm to 9pm and slightly busy in the morning around 6a
 
 
 ## Here's a code of Insight: Uber Pickup Frequency Based on Hours of the Day
-
 
 
 
