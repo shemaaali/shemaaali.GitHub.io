@@ -3,10 +3,7 @@ layout: page
 
 cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
 
-tittle: Uber Trip in New York City
-
-subtittle: Is Uber Making New York City Traffic Worse?
-
+tittle: Better Understanding about Uber Trip in New York City
 comments: true
 
 tags: [books, test]
