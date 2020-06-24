@@ -31,6 +31,7 @@ Take a look at the maps we’ve produced below, which track pickups by Uber and 
 
 
 
+<img scr = "http://assets.pewresearch.org/wp-content/uploads/sites/12/2016/04/FT_16.04.06_pubTrans_metro.png"/>
 
 
 As you can see, Uber and taxi usage have a lot in common. The correlation coefficient between per capita Uber use and per capita taxi use 3 is 0.89, not that far from a perfect correlation of 1. We can also consider these differences by various geographic and demographic categories on a scale where 100 represents average per capita residential usage.
