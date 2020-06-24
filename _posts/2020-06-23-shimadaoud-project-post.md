@@ -35,7 +35,7 @@ Take a look at the maps we’ve produced below, which track pickups by Uber and 
 
 
 
-## New York City is the Biggest Market for Public Transit in the Country Demonstrated By the Following Figure
+## New York City is the Biggest Market for Public Transit in the Country Demonstrated By the Following Figure:
 
 
 
@@ -50,7 +50,7 @@ As you can see, Uber and taxi usage have a lot in common. The correlation coeffi
 
 
 
-## The Correlation Coefficient Between Per Capita Uber use and Per Capita Taxi Use As Showed by the Following Figure
+## The Correlation Coefficient Between Per Capita Uber use and Per Capita Taxi Use As Showed by the Following Figure:
 
 
 
@@ -67,7 +67,7 @@ Uber is introducing some cheaper services, such as its carpooling service UberPo
 
 
 
-## Cheapest Services Like Carpooling UberPool Illustrated By the Following Figure
+## Cheapest Services Like Carpooling UberPool Illustrated By the Following Figure:
 
 
 
@@ -80,7 +80,7 @@ Uber is introducing some cheaper services, such as its carpooling service UberPo
 
 
 
-## Ubers And Cabs May Not Be So Different In Some Case AS the Following Figure
+## Ubers And Cabs May Not Be So Different In Some Case AS the Following Figure:
 
 
 
