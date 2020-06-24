@@ -16,6 +16,7 @@ tags: [books, test]
 ---
 
 
+
 Using individual daily pick up-level data to answer important questions on pick up sharing services’ influence on markets, drivers, and citizens in New York city by the Data/Time, Lat, Lon, Base, Year, Month, Day of the Weeks, Hours, and Minutes.
 
 
