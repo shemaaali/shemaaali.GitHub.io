@@ -15,6 +15,6 @@ My Hobbies:
 - I Play tensis and volly-ball 
 
 
-### my history
+### My history
 
-I have lots of fun in my life beside and support my family, let's watch this kind of music in my native langauge which is Arabic. [my music](https://www.youtube.com/watch?v=itknrliDPA4&list=RDitknrliDPA4&start_radio=1)
+I have lots of fun in my life beside and support my family, let's watch this kind of music in my native langauge which is Arabic. [My music](https://www.youtube.com/watch?v=itknrliDPA4&list=RDitknrliDPA4&start_radio=1)
