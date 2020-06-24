@@ -15,9 +15,11 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Lambda School: "https://lambdaschool.com"
+    - Training Kit: "https://learn.lambdaschool.com/ds/sprint/recLBojP7nFYhz1EM"
     - FiveThirtyEight: "https://www.fivethirtyeight"
-    - Medium: "https://www.medium.com"
-    - Training Kit: "https://learn.lambdaschool.com/"
+    - Google Colab: "https://colab.research.google.com/notebooks/intro.ipynb"
+    - Medium: "https://medium.com/@shemaali8787/is-uber-making-new-york-city-traffic-worse-3286331d4cfe"
+    - Beautiful-jekyll: "https://github.com/daattali/beautiful-jekyll"
   Author's home: "https://lambdaschool.com"
 
 # --- Logo --- #
@@ -69,6 +71,7 @@ share-links-active:
   facebook: true
   linkedin: true
   email: true
+  github: true
   vk: false
 
 # How to display the link to your website in the footer
