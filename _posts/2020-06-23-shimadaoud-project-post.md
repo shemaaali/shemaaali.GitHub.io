@@ -1,16 +1,21 @@
 ---
 layout: post
 
+
 cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
+
 
 title: Is Uber Making New York City Traffic Worse?
 
+
 subtitle: Using Individual Daily Pick Up
+
 
 comments: true
 
 tags: [books, test]
 ---
+
 
 Using individual daily pick up-level data to answer important questions on pick up sharing services’ influence on markets, drivers, and citizens in New York city by the Data/Time, Lat, Lon, Base, Year, Month, Day of the Weeks, Hours, and Minutes.
 
@@ -52,7 +57,7 @@ Uber is introducing some cheaper services, such as its carpooling service UberPo
 
 
 
-# Uber Can Be Cheaper Than Car Ownershp-If You Mostly Use Puplic Transit
+## Uber Can Be Cheaper Than Car Ownershp-If You Mostly Use Puplic Transit
 
 
 
@@ -60,7 +65,7 @@ Uber is introducing some cheaper services, such as its carpooling service UberPo
 
 
 
-# Insight: Uber Pickup Frequency Based on Hours of the Day
+## Insight: Uber Pickup Frequency Based on Hours of the Day
 
 
 
@@ -68,7 +73,7 @@ Uber is mostly busy around 3pm to 9pm and slightly busy in the morning around 6a
 
 
 
-# Here's a code of Insight: Uber Pickup Frequency Based on Hours of the Day
+## Here's a code of Insight: Uber Pickup Frequency Based on Hours of the Day
 
 
 
@@ -86,7 +91,7 @@ plt.show()
 
 
 
-# Here's a Graph of Insight: Uber Pickup Frequency Based on Hours of the Day
+## Here's a Graph of Insight: Uber Pickup Frequency Based on Hours of the Day
 
 
 
@@ -96,7 +101,7 @@ plt.show()
 
 
 
-# Insight: Uber Pickup Frequency Based on Days of the Week
+## Insight: Uber Pickup Frequency Based on Days of the Week
 
 
 
@@ -104,7 +109,7 @@ People are choosing uber for weekdays more often then in weekends.
 
 
 
-# Here's a code of Insight: Uber Pickup Frequency Based on Days of the Week
+## Here's a code of Insight: Uber Pickup Frequency Based on Days of the Week
 
 
 
@@ -120,7 +125,7 @@ plt.show()
 
 
 
-# Here's a Graph of Insight: Uber Pickup Frequency Based on Days of the Week
+## Here's a Graph of Insight: Uber Pickup Frequency Based on Days of the Week
 
 
 
@@ -128,14 +133,14 @@ plt.show()
 
 
 
-# Insight: Unter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
+## Insight: Unter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
 It's seem that uber has more pickup on Tuesday wednesday and thusday 
 people are opting for uber more in the evening(5pm to 9pm) period than the morning(6am to 9am) and the patter is same throughout the week.
 
 
-# Here's a code of Insight: Unter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
+## Here's a code of Insight: Unter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
 
@@ -154,7 +159,7 @@ plt.show()
 
 
 
-# Here's a Graph of Insight: Unter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
+## Here's a Graph of Insight: Unter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
 
@@ -162,7 +167,7 @@ plt.show()
 
 
 
-# Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
+## Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
 It's seem that uber has less pickup on sunday and monday 
@@ -170,7 +175,7 @@ the trend of pickup hour is as similar as observed in Unter traffic analysis.
 
 
 
-# Here's a code of Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
+## Here's a code of Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
 
@@ -188,7 +193,7 @@ plt.show()
 
 
 
-# Here's a Graph of Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
+## Here's a Graph of Insight: Hinter Base Traffic Monitoring on the Hinter Bases of Day_of_Week and Hours
 
 
 
