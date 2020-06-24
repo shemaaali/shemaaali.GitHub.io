@@ -19,6 +19,7 @@ navbar-links:
     - FiveThirtyEight: "https://www.fivethirtyeight"
     - Google Colab: "https://colab.research.google.com/notebooks/intro.ipynb"
     - Medium: "https://medium.com/@shemaali8787/is-uber-making-new-york-city-traffic-worse-3286331d4cfe"
+    - Kaggle: "https://www.kaggle.com/"
     - Beautiful-jekyll: "https://github.com/daattali/beautiful-jekyll"
   Author's home: "https://lambdaschool.com"
 
@@ -42,7 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shemaali8787@gmail.com"
+  email: shemaali8787@gmail.com
   facebook: shemaa Ali
   github: shemaaali.GitHub.io
   twitter: shemaaali15
