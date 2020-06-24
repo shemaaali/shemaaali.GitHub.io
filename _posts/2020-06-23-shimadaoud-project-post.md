@@ -1,18 +1,13 @@
 ---
-layout: page
+layout: post
 cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
-
-
-
-
-
-
-title: Is Uber Making New York City Traffic Worse?
-
 comments: true
-
 tags: [books, test]
 ---
+
+
+## Is Uber Making New York City Traffic Worse?
+
 
 In fact, I wanted to gain a better understanding of daily uber picks up rates in New York City, so I analyzed daily hours rates in a large subset of the busy week-days and weekends. I analysed and visualized all of the available daily uber picks up data, from April 2014 to September 2014.
 
