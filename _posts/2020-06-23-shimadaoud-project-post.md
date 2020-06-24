@@ -38,9 +38,15 @@ As you can see, Uber and taxi usage have a lot in common. The correlation coeffi
 
 
 
+<img scr = "https://tse3.mm.bing.net/th?id=OIP.-MTsh0HdNoNFjZ245TtpzQHaIv&pid=Api&P=0&w=300&h=300"/>
+
 
 
 Uber is introducing some cheaper services, such as its carpooling service UberPool. Suppose that the price of an Uber ride could be halved, to $10 per ride. In that case, this household could take about a third of its trips by Uber, filling in the rest with public transit, and it would still be cheaper than car ownership.
+
+
+
+<img scr = "https://tse4.mm.bing.net/th?id=OIP.ctdk3I3NxPBrg0ANPJVlegHaD3&pid=Api&P=0&w=297&h=156"/>
 
 
 
@@ -50,10 +56,6 @@ Uber is introducing some cheaper services, such as its carpooling service UberPo
 
 ![Uber](https://cdn-images-1.medium.com/max/1200/0*V7pDskSARMN3lhSx)
 
-
-
-As you can see, Uber and taxi usage have a lot in common. The correlation coefficient between per capita Uber use and per capita taxi use3 is 0.89, not that far from a perfect correlation of 1. We can also consider these differences by various geographic and demographic categories on a scale where 100 represents average per capita residential usage.
-Uber is introducing some cheaper services, such as its carpooling service UberPool. Suppose that the price of an Uber ride could be halved, to $10 per ride. In that case, this household could take about a third of its trips by Uber, filling in the rest with public transit, and it would still be cheaper than car ownership.
 
 
 
