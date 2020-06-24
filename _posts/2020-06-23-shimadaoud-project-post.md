@@ -179,7 +179,6 @@ the trend of pickup hour is as similar as observed in Unter traffic analysis.
 
 
 
-
 ~~~
 plt.figure(figsize=(16,8))
 sns.countplot(uber_april_2014[uber_april_2014['Base']=='Hinter']['Day_of_week'],
