@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little Bit Information About My Life
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Shima Daoud. I am original from Sudan. I am married and have three kids. 
+I have been in the USA. for about 6 years. Currently I live in Lincoln, Nebraska, I am attending Lambda school.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My Hobbies:
 
-What else do you need?
+
+- I like reading and writting
+- I like listening to music
+- I Play tensis and volly-ball 
+
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have lots of fun in my life beside and support my family, let's watch this kind of music in my native langauge which is Arabic. [my music](https://www.youtube.com/watch?v=itknrliDPA4&list=RDitknrliDPA4&start_radio=1)
