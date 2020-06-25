@@ -3,6 +3,7 @@ layout: page
 
 cover-img: /assets/img/GettyImages-910282160-1024x683.jpg
 
+
 tittle: Better Understanding about Daily Uber Pick Up in New York City
 comments: true
 
@@ -251,6 +252,7 @@ plt.show()
 
 
 ![Graph](https://cdn-images-1.medium.com/max/1200/0*W1EP0Dq27-k3g7Zn.png)
+
 
 
 
