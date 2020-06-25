@@ -8,8 +8,6 @@ cover-img: /assets/img/GettyImages-910282160-1024x683.jpg
 tittle: Better Understanding About Daily Uber Pick Up in New York City
 
 
-subtittle: Better Understanding about Daily Uber Pick Up in New York City
-
 comments: true
 
 tags: [books, test]
