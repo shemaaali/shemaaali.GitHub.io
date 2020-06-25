@@ -1,9 +1,9 @@
 ---
 layout: page
 
-cover-img: /assets/img/0_VQlNuAz-phPQ-VnV.jpeg
+cover-img: /assets/img/th (2).jpg
 
-tittle: Better Understanding about Uber Trip in New York City
+tittle: Better Understanding about Daily Uber Pick Up in New York City
 comments: true
 
 tags: [books, test]
