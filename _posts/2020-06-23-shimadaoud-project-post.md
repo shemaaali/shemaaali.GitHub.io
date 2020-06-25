@@ -1,7 +1,7 @@
 ---
 layout: page
 
-cover-img: /assets/img/th (2).jpg
+cover-img: /assets/img/GettyImages-910282160-1024x683.jpg
 
 tittle: Better Understanding about Daily Uber Pick Up in New York City
 comments: true
