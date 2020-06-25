@@ -1,19 +1,14 @@
 ---
-layout: page
-
-
+layout: post
 cover-img: /assets/img/GettyImages-910282160-1024x683.jpg
-
-
 tittle: Better Understanding About Daily Uber Pick Up in New York City
-
-
-subtittle: Better Understanding About Daily Uber Pick Up in New York City
-
-
+subtittle: Uber Pick Up Analysis in New York City
+gh-repo: https://github.com/shemaaali
+/
+shemaaali.GitHub.io
+gh-badge: [star, fork, follow]
+tags: [Data Analysis]
 comments: true
-
-tags: [books, test]
 ---
 
 
@@ -25,7 +20,8 @@ In fact, I wanted to gain a better understanding of daily uber picks up rates in
 
 
 
-Using individual daily pick up-level data to answer important questions on pick up sharing services’ influence on markets, drivers, and citizens in New York city by the Data/Time, Lat, Lon, Base, Year, Month, Day of the Weeks, Hours, and Minutes.
+This post shows using individual daily pick up-level data to answer important questions on pick up sharing services’ influence on markets, drivers, and citizens in New York city by the Data/Time, Lat, Lon, Base, Year, Month, Day of the Weeks, Hours, and Minutes.
+
 
 
 
