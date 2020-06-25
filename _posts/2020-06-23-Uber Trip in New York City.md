@@ -116,7 +116,6 @@ Uber is mostly busy around 3pm to 9pm and slightly busy in the morning around 6a
 
 
 
-
 ~~~
 plt.figure(figsize=(15,8))
 sns.distplot(uber_april_2014['Hour'])
