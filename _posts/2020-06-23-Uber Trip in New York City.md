@@ -8,6 +8,8 @@ cover-img: /assets/img/GettyImages-910282160-1024x683.jpg
 tittle: Better Understanding About Daily Uber Pick Up in New York City
 
 
+subtittle: Better Understanding About Daily Uber Pick Up in New York City
+
 comments: true
 
 tags: [books, test]
@@ -270,7 +272,9 @@ I have limited experience in coding: Some foundation in Python and very limited 
 
 https://fivethirtyeight.com/
 
-Addition Resources If Interested
+
+# Addition Resources If Interested
+
 
 https://medium.com/data-tale/is-uber-taking-over-new-york-city-faf9e03d4c34
 
