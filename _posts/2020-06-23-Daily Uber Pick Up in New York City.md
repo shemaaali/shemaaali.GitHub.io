@@ -265,5 +265,16 @@ I have limited experience in coding: Some foundation in Python and very limited 
 
 
 
+# Resources
+
+
+https://fivethirtyeight.com/
+
+Addition Resources If Interested
+
+https://medium.com/data-tale/is-uber-taking-over-new-york-city-faf9e03d4c34
+
+https://search.yahoo.com/search?fr=mcafee&type=E211US714G0&p=Uber+pick+up+in+New+york+city
+
 
 
