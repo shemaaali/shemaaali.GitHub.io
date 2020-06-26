@@ -29,74 +29,20 @@ This post shows using individual daily pick up-level data to answer important qu
 ## New York City is the Biggest Market for Public Transit in the Country 
 
 
-
-New York City is the biggest market for public transit in the country — in fact, about 40 percent of all public transit trips in the United States occur in the New York metro area. And as it happens, we have some very good data on how New Yorkers are using Uber, public transit and other services. Earlier this month, we published an analysis based on about 93 million Uber and taxi trips in New York from April to September 2014, including information about Uber trips that we obtained via a Freedom of Information Law request. That analysis focused mostly on the differences between Uber and taxi coverage: As compared with taxis, for instance, Uber use is proportionally higher in Brooklyn.
-But in New York overall, there isn’t much difference between the people picked up by Uber and the ones who ride in cabs. Uber and taxis both disproportionately serve wealthy areas within Manhattan or just across the bridges and tunnels from it. What’s more, these customers usually live in neighborhoods with abundant public transit access also. In other words, the combination of public transit and for-hire vehicles is something that New Yorkers have been relying on for years.
-Take a look at the maps we’ve produced below, which track pickups by Uber and taxis on a per capital basis, census tract by census tract. The data includes an adjustment for the ratio of residents to workers in each census tract, with the goal of identifying rides that originate from a person’s place of residence rather than where they work, shop, go to school or spend leisure time.
+New York City is the biggest market for public transit in the country contents about 40 percent of all public transit trips in the United States occur in the New York metro area. we published an analysis based on about 93 million Uber and taxi trips in New York from April to September 2014. We can compare between taxis and uber using high proportion is in Brooklyn. They might be a lot different between people who ride uber or taxi.
 
 
 
-## New York City is the Biggest Market for Public Transit in the Country Demonstrated By the Following Figure:
+There are some cheaper services for uber like UberPool. The price of ride is between $8-$10.
 
 
-
-
-![New](http://assets.pewresearch.org/wp-content/uploads/sites/12/2016/04/FT_16.04.06_pubTrans_metro.png)
-
-
-
-
-As you can see, Uber and taxi usage have a lot in common. The correlation coefficient between per capita Uber use and per capita taxi use 3 is 0.89, not that far from a perfect correlation of 1. We can also consider these differences by various geographic and demographic categories on a scale where 100 represents average per capita residential usage.
-
-
-
-
-## The Correlation Coefficient Between Per Capita Uber use and Per Capita Taxi Use As Showed by the Following Figure:
-
-
-
-
-![Correlation](https://tse3.mm.bing.net/th?id=OIP.-MTsh0HdNoNFjZ245TtpzQHaIv&pid=Api&P=0&w=300&h=300)
-
-
-
-
-
-Uber is introducing some cheaper services, such as its carpooling service UberPool. Suppose that the price of an Uber ride could be halved, to $10 per ride. In that case, this household could take about a third of its trips by Uber, filling in the rest with public transit, and it would still be cheaper than car ownership.
-
-
-
-
-
-## Cheapest Services Like Carpooling UberPool Illustrated By the Following Figure:
-
+## Cheapest Services for uber like UberPool Illustrated By the Following Figure:
 
 
 
 
 ![Cheapest](https://tse4.mm.bing.net/th?id=OIP.ctdk3I3NxPBrg0ANPJVlegHaD3&pid=Api&P=0&w=297&h=156)
 
-
-
-
-
-
-## Ubers And Cabs May Not Be So Different In Some Case AS the Following Figure:
-
-
-
-
-
-![Uber](https://cdn-images-1.medium.com/max/1200/0*V7pDskSARMN3lhSx)
-
-
-
-
-## Uber Can Be Cheaper Than Car Ownershp-If You Mostly Use Puplic Transit
-
-
-
-![Uber](https://cdn-images-1.medium.com/max/1200/0*I6GWZa_MXlkkwwJx)
 
 
 
