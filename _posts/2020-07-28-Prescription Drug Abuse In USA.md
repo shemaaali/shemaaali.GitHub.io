@@ -5,7 +5,7 @@ tittle: Prescription Drug Abuse In The United States
 
 subtittle: What Should We Do To Prevent Prescription Drug Abuse?
 
-cover-img: /assets/img/
+cover-img: /assets/img/0_qa-FbC-ReXxKIntl.jpg
 
 tags: [books, test]
 
@@ -13,27 +13,35 @@ comments: true
 ---
 
 
-## Is Uber Making New York City Traffic Worse?
+## What Should We Do To Prevent Prescription Drug Abuse?
 
 
 
-In fact, I wanted to gain a better understanding of daily uber picks up rates in New York City, so I analyzed daily hours rates in a large subset of the busy week-days and weekends. I analysed and visualized all of the available daily uber picks up data, from April 2014 to September 2014.
+In fact, the abuse of prescription drugs is a common problem in the United States among teens and adult people. Some people use prescriptions as medications, but some people use them as recreational drugs. Millions of dollars are spent to prevent prescription drug abuse, and pharmaceutical companies could make medications have less addictive chemicals. It may take more than is needed, and people may become addicted to prescription drugs.
+
+
+## When Does It Occur? 
+
+
+Prescription drug abuse occurs when people who have problems with pain and anxiety take more medications than prescribed, or they take medications not prescribed. People think that if one pill helps, two or more benefits more. Other people try to prevent problems by taking medications before the pain comes. Sometimes medications seem to be the only thing that makes somebody feel better, but many people are not aware of the risks of prescription drug abuse.
 
 
 
-This post shows using individual daily pick up-level data to answer important questions on pick up sharing services’ influence on markets, drivers, and citizens in New York city by the Data/Time, Lat, Lon, Base, Year, Month, Day of the Weeks, Hours, and Minutes.
+## The Dangers and Negative Consequences of Prescription Drug Abuse:
 
 
 
-
-## New York City is the Biggest Market for Public Transit in the Country 
-
-
-New York City is the biggest market for public transit in the country contents about 40 percent of all public transit trips in the United States occur in the New York metro area. we published an analysis based on about 93 million Uber and taxi trips in New York from April to September 2014. We can compare between taxis and uber using high proportion is in Brooklyn. They might be a lot different between people who ride uber or taxi.
+Prescription drugs are called Opioids which are easier to obtain than illegal drugs such as heroin and cocaine. Opioids are prescribed primarily as pain relievers despite a high risk of addiction and overdose. The increase in deaths caused by the risks involved with the consumption of opioids was alarming and declared an epidemic. When those prescription drugs/opioids are taken abnormally, they may result in death and lead to a crisis. 
 
 
+## Prescription Drug Abuse/Opioid Crisis:
 
-There are some cheaper services for uber like UberPool. The price of ride is between $8-$10.
+
+According to CDC, there are more than 750,000 people have died since 1999 from a drug overdose, and there are two out of three drug overdose deaths in 2018 involved an opioid, including prescription opioids, heroin. https://www.cdc.gov/drugoverdose/data/index.htm
+In fact, I wanted to gain a better understanding of the prescription drug abuse/opioid crisis, so I analyzed the amount of obtaining a prescription/opioid in a large subset of the data on prescribers like specialties who have authorized the count of each drug are people used. I analyzed and visualized all of the available prescription drug abuse/opioid crisis by https://github.com/IBM/predict-opioid-prescribers/tree/master/data
+My primary goal is to perform an exploratory data analysis on the prescription drug abuse/opioid crisis and gather insights into its sources.
+
+
 
 
 ## Cheapest Services for uber like UberPool Illustrated By the Following Figure:
