@@ -1,11 +1,11 @@
 ---
 layout: post
 
-tittle: Better Understanding About Daily Uber Pick Up in New York City
+tittle: Prescription Drug Abuse In The United States
 
-subtittle: Uber Pick Up Analysis in New York City
+subtittle: What Should We Do To Prevent Prescription Drug Abuse?
 
-cover-img: /assets/img/GettyImages-910282160-1024x683.jpg
+cover-img: /assets/img/
 
 tags: [books, test]
 
