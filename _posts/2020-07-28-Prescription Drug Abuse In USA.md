@@ -57,7 +57,7 @@ My primary goal is to perform an exploratory data analysis on the prescription d
 
 
 
-![Opioid Crisis](https://www.youtube.com/results?search_query=%23crisis)
+![Opioid Crisis](https://www.drugfreekidscanada.org/wp-content/uploads/2016/07/prescription_drug_list_en.jpg)
 
 
 
@@ -285,9 +285,7 @@ Finally, the weightage of original factors in the newly formed factors will be o
  
  
  
- 
 Although the problems of prescription drug abuse seem impossible to eliminate, there are concrete steps that can be taken by people themselves and governments to weaken the hold of prescription drugs. The risk of abuse of prescription drugs is too huge to ignore ourselves. The increase in overdose fatalities is a well-known problem, and the search for possible solutions is an ongoing effort. But, the prevention of opioid crisis can be done by detecting some sources of significant quantities of opioid prescriptions.
-
 
 
 
