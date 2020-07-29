@@ -18,9 +18,7 @@ comments: true
 
 
 In fact, the abuse of prescription drugs is a common problem in the United States among teens and adult people. Some people use prescriptions as medications, but some people
-
 use them as recreational drugs. Millions of dollars are spent to prevent prescription drug abuse, and pharmaceutical companies could make medications have less addictive
-
 chemicals. It may take more than is needed, and people may become addicted to prescription drugs.
 
 
@@ -30,9 +28,7 @@ chemicals. It may take more than is needed, and people may become addicted to pr
 
 
 Prescription drug abuse occurs when people who have problems with pain and anxiety take more medications than prescribed, or they take medications not prescribed. People
-
 think that if one pill helps, two or more benefits more. Other people try to prevent problems by taking medications before the pain comes. Sometimes medications seem to be
-
 the only thing that makes somebody feel better, but many people are not aware of the risks of prescription drug abuse.
 
 
@@ -44,9 +40,7 @@ the only thing that makes somebody feel better, but many people are not aware of
 
 
 Prescription drugs are called Opioids which are easier to obtain than illegal drugs such as heroin and cocaine. Opioids are prescribed primarily as pain relievers despite a
-
 high risk of addiction and overdose. The increase in deaths caused by the risks involved with the consumption of opioids was alarming and declared an epidemic. When those
-
 prescription drugs/opioids are taken abnormally, they may result in death and lead to a crisis. 
 
 
@@ -58,15 +52,10 @@ prescription drugs/opioids are taken abnormally, they may result in death and le
 
 
 According to CDC, there are more than 750,000 people have died since 1999 from a drug overdose, and there are two out of three drug overdose deaths in 2018 involved an
-
 opioid, including prescription opioids, heroin. https://www.cdc.gov/drugoverdose/data/index.htm
-
 In fact, I wanted to gain a better understanding of the prescription drug abuse/opioid crisis, so I analyzed the amount of obtaining a prescription/opioid in a large subset
-
 of the data on prescribers like specialties who have authorized the count of each drug are people used. I analyzed and visualized all of the available prescription drug
-
 abuse/opioid crisis by https://github.com/IBM/predict-opioid-prescribers/tree/master/data
-
 My primary goal is to perform an exploratory data analysis on the prescription drug abuse/opioid crisis and gather insights into its sources.
 
 
@@ -332,11 +321,8 @@ Finally, the weightage of original factors in the newly formed factors will be o
  
  
 Although the problems of prescription drug abuse seem impossible to eliminate, there are concrete steps that can be taken by people themselves and governments to weaken the
-
 hold of prescription drugs. The risk of abuse of prescription drugs is too huge to ignore ourselves. The increase in overdose fatalities is a well-known problem, and the
-
 search for possible solutions is an ongoing effort. But, the prevention of opioid crisis can be done by detecting some sources of significant quantities of opioid
-
 prescriptions.
 
 
