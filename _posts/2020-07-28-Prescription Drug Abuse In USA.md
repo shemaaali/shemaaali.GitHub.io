@@ -250,6 +250,32 @@ The number of opioid prescribers out of the total prescribers which come up with
   
   
   
+  ## Graphs 1: Opioid Prescribers by State
+  
+  
+  
+  
+  ![Graph](https://miro.medium.com/max/1050/1*QjmoJteIFfXCOA982s51OQ.png)
+  
+  
+  
+  
+  
+  ## Insight: Total_Opioid Prescribers For All-States
+  
+  
+  
+  
+  1- Overview all Opioid prescribers per state are showing the highest states with drug abuse.
+  
+  2- Opioid Prescriber count by State and NPI for the top 30 states
+  
+  3- Overview for the total_opioids for each state that has the highest amount of opioids
+  
+  4- States like CA, NY, FL, TX have higher opioid prescribers which corresponds with high death rates reported due to opioid overdose.
+  
+  
+  
   
  ## Graph: Principal Component Analysis(dimensionality reduction)
  
