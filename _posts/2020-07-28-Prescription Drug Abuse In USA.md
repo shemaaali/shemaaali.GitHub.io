@@ -13,7 +13,7 @@ comments: true
 ---
 
 
-## What Should We Do To Prevent Prescription Drug Abuse?
+# What Should We Do To Prevent Prescription Drug Abuse?
 
 In fact, I wanted to gain a better understanding of the prescription drug abuse/opioid crisis, so I analyzed the amount of obtaining a prescription/opioid in a large subset of the data on prescribers like specialties who have authorized the count of each drug are people used. I analyzed and visualized all of the available prescription drug abuse/opioid crisis by https://github.com/IBM/predict-opioid-prescribers/tree/master/data
 
@@ -21,7 +21,7 @@ My primary goal is to perform an exploratory data analysis on the prescription d
 
 
 
-# When Does It Occur? 
+### When Does It Occur? 
 
 
 
@@ -30,7 +30,7 @@ think that if one pill helps, two or more benefits more. Other people try to pre
 the only thing that makes somebody feel better, but many people are not aware of the risks of prescription drug abuse.
 
 
-# Graph: Opioid Prescribers by State
+### Graph: Opioid Prescribers by State
 
 
 
@@ -38,14 +38,14 @@ the only thing that makes somebody feel better, but many people are not aware of
 
 
 
-# Insight: Opioid Prescribers by State Based on the Map Above
+### Insight: Opioid Prescribers by State Based on the Map Above
 
 
 
 If we look specifically on the map at the TOP 12 states for prescription drug abuse that contain four spot areas each area represent the line of the impact of opioid. States in the red areas that show the biggest impact on drug abuse. States in the orange areas that show the medium impact drug abuse. States in the green and blue areas that show a lower impact on drug abuse.
 
 
-# Graph: Total_Opioid Prescribers For All-States
+### Graph: Total_Opioid Prescribers For All-States
 
 
 
@@ -53,14 +53,14 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 
 
 
-# Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
+### Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
 
 
 Prescription drugs are called Opioids which are easier to obtain than illegal drugs such as heroin and cocaine. Opioids are prescribed primarily as pain relievers despite a high risk of addiction and overdose. The increase in deaths caused by the risks involved with the consumption of opioids was alarming and declared an epidemic. When those prescription drugs/opioids are taken abnormally, they may result in death and lead to a crisis.
 
 
 
-# Opioid Crisis: Illustrated By the Following Figure:
+### Opioid Crisis: Illustrated By the Following Figure:
 
 
 
@@ -71,7 +71,7 @@ According to CDC, there are more than 750,000 people have died since 1999 from a
 
 
 
-# Prescribed Opioids in Prescriber Dataset
+### Prescribed Opioids in Prescriber Dataset
 
 
 ~~~
@@ -89,14 +89,14 @@ According to CDC, there are more than 750,000 people have died since 1999 from a
 ~~~
 
 
-# Insight: Prescribed Opioids in Prescriber Dataset
+### Insight: Prescribed Opioids in Prescriber Dataset
 
 
 There are 11 opioid drug opioid drugs out of the 250 drugs mentioned in the prescriber's data. 
 Also, there are 60% of the prescribers on this list are opioid prescribers.
 
 
-# Prescribed Opioids vs the Total Prescriptions:
+### Prescribed Opioids vs the Total Prescriptions:
 
 
 ![Graph](https://miro.medium.com/proxy/1*wsPfHmdP96UgoufZJHmVrA.png)
@@ -105,19 +105,19 @@ Also, there are 60% of the prescribers on this list are opioid prescribers.
 The number of opioid prescribers out of the total prescribers which come up with about 58.752 % of opioids that have been prescribed.
 
 
-# Graph: Opioid Prescribers by Gender:
+### Graph: Opioid Prescribers by Gender:
 
 
 ![Graph](https://miro.medium.com/max/699/1*tDCJzzwQL1rkaVNKGPEDdQ.png)
 
 
-# Insight: Opioid Prescribers by Gender:
+### Insight: Opioid Prescribers by Gender:
 
 
 The number of non-opioid prescribers is similar in the case of males and females. Even though prescribed opioids are higher in the case of males, that can be subject to the kind of specialties males and females prescribers prefer.
 
 
-# Graphs: Opioid Prescribers by Specialty
+### Graphs: Opioid Prescribers by Specialty
 
 
 
@@ -125,37 +125,37 @@ The number of non-opioid prescribers is similar in the case of males and females
  
  
  
- # Insight: Opioid Prescribers by Specialty
+ ### Insight: Opioid Prescribers by Specialty
  
 
 Opioid prescribers count by specialty and NPI for the top 30 specialties, the use of opioids is much higher in specialties which involve the use of pain killers or inhibitors.
 
 
-# Graphs: Opioid Prescribers by State
+### Graphs: Opioid Prescribers by State
 
 
  ![Graphs](https://miro.medium.com/max/1050/1*QOzYNSiMG9jKiNDO2_0hdg.png)
  
 
-# Insight: Opioid Prescribers by State
+### Insight: Opioid Prescribers by State
 
 
 Opioid Prescriber count by State and NPI for the top 30 states, overview for all Opioid prescribers per state are showing the highest states with drug abuse.
  
 
-  # Graphs: Opioid Prescribers by State
+### Graphs: Opioid Prescribers by State
   
   
   ![Graph](https://miro.medium.com/max/1050/1*iSfhUei9l6qxQDd-woMoKQ.png)
   
   
-  # Insight: Opioid Prescribers by State
+### Insight: Opioid Prescribers by State
   
   
   States like CA, NY, FL, TX have the higher opioid prescribers which correspond with high health rates reported due to opioid overdose.
   
   
- # Graph: Principal Component Analysis(dimensionality reduction)
+### Graph: Principal Component Analysis(dimensionality reduction)
  
  
  
@@ -163,7 +163,7 @@ Opioid Prescriber count by State and NPI for the top 30 states, overview for all
  
  
  
- # Insight: Principal Component Analysis(dimensionality reduction)
+### Insight: Principal Component Analysis(dimensionality reduction)
  
  
  
@@ -175,7 +175,7 @@ Finally, the weightage of original factors in the newly formed factors will be o
  
  
  
- # Conclusion:
+### Conclusion:
  
  
  
@@ -186,20 +186,20 @@ prescriptions.
 
 
 
-# Note-book Code:
+### Note-book Code:
 
 
 
 https://search.yahoo.com/search?fr=mcafee&type=E211US714G0&p=What+Should+We+Do+To+Prevent+Prescription+Drug+Abuse%3F
 
 
-# Medium.com
+### Medium.com
 
 
 https://medium.com/@shemaali8787/prescription-drug-abuse-in-the-united-states-29aa3786032b
 
 
-# Addition Resources If Interested
+### Addition Resources If Interested
 
 
 https://github.com/IBM/predict-opioid-prescribers/tree/master/data
