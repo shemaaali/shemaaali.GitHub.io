@@ -38,7 +38,7 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 
 
 
-![Graph](https://https://plotly.com/~shemaaali/1/.png)
+![Graph](https://https://plotly.com/~shemaaali/1/)
 
 
 
@@ -145,7 +145,7 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 ### Graphs: Opioid Prescribers by State
 
 
- ![Graphs](https://plotly.com/~shemaaali/3/.png)
+ ![Graphs](https://plotly.com/~shemaaali/3/)
  
  
 ### Insight: Opioid Prescribers by State
