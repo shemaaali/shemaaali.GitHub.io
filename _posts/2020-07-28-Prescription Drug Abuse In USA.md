@@ -38,7 +38,7 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 
 
 
-![Graph](https://https://plotly.com/~shemaaali/1/)
+![Graph](https://https://plotly.com/~shemaaali/1/.png)
 
 
 
@@ -60,7 +60,7 @@ the only thing that makes somebody feel better, but many people are not aware of
 ## Graph: Total_Opioid Prescribers For All-States
 
 
-![Graph](https://miro.medium.com/max/1050/1*pzTo-h5i2w5zH-muhRpCRA.png)
+![Graph](https://plotly.com/~shemaaali/8/.png)
 
 
 ### Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
@@ -145,7 +145,7 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 ### Graphs: Opioid Prescribers by State
 
 
- ![Graphs](https://plotly.com/~shemaaali/3/)
+ ![Graphs](https://plotly.com/~shemaaali/3/.png)
  
  
 ### Insight: Opioid Prescribers by State
