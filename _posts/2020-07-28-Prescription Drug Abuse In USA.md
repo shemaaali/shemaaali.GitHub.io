@@ -44,12 +44,6 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 
 
 
-### Graph: Total_Opioid Prescribers For All-States
-
-
-![Graph](https://miro.medium.com/proxy/1*QjmoJteIFfXCOA982s51OQ.png)
-
-
 ## Insight: Opioid_Prescribers Vs Total_Prescribers
 
 
