@@ -15,11 +15,9 @@ comments: true
 
 ## What Should We Do To Prevent Prescription Drug Abuse?
 
+In fact, I wanted to gain a better understanding of the prescription drug abuse/opioid crisis, so I analyzed the amount of obtaining a prescription/opioid in a large subset of the data on prescribers like specialties who have authorized the count of each drug are people used. I analyzed and visualized all of the available prescription drug abuse/opioid crisis by https://github.com/IBM/predict-opioid-prescribers/tree/master/data
 
-
-In fact, the abuse of prescription drugs is a common problem in the United States among teens and adult people. Some people use prescriptions as medications, but some people
-use them as recreational drugs. Millions of dollars are spent to prevent prescription drug abuse, and pharmaceutical companies could make medications have less addictive
-chemicals. It may take more than is needed, and people may become addicted to prescription drugs.
+My primary goal is to perform an exploratory data analysis on the prescription drug abuse/opioid crisis and gather insights into its sources.
 
 
 
@@ -32,17 +30,33 @@ think that if one pill helps, two or more benefits more. Other people try to pre
 the only thing that makes somebody feel better, but many people are not aware of the risks of prescription drug abuse.
 
 
-
-
-## The Dangers and Negative Consequences of Prescription Drug Abuse:
-
+## Graph: Opioid Prescribers by State
 
 
 
-Prescription drugs are called Opioids which are easier to obtain than illegal drugs such as heroin and cocaine. Opioids are prescribed primarily as pain relievers despite a
-high risk of addiction and overdose. The increase in deaths caused by the risks involved with the consumption of opioids was alarming and declared an epidemic. When those
-prescription drugs/opioids are taken abnormally, they may result in death and lead to a crisis. 
+![Graph](https://miro.medium.com/proxy/1*fD6XcW1hLu5FIQntn-Dk0g.png)
 
+
+
+## Insight: Opioid Prescribers by State Based on the Map Above
+
+
+
+If we look specifically on the map at the TOP 12 states for prescription drug abuse that contain four spot areas each area represent the line of the impact of opioid. States in the red areas that show the biggest impact on drug abuse. States in the orange areas that show the medium impact drug abuse. States in the green and blue areas that show a lower impact on drug abuse.
+
+
+## Graph: Total_Opioid Prescribers For All-States
+
+
+
+![Graph](https://miro.medium.com/proxy/1*QjmoJteIFfXCOA982s51OQ.png)
+
+
+
+## Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
+
+
+Prescription drugs are called Opioids which are easier to obtain than illegal drugs such as heroin and cocaine. Opioids are prescribed primarily as pain relievers despite a high risk of addiction and overdose. The increase in deaths caused by the risks involved with the consumption of opioids was alarming and declared an epidemic. When those prescription drugs/opioids are taken abnormally, they may result in death and lead to a crisis.
 
 
 
@@ -50,14 +64,7 @@ prescription drugs/opioids are taken abnormally, they may result in death and le
 
 
 
-
-According to CDC, there are more than 750,000 people have died since 1999 from a drug overdose, and there are two out of three drug overdose deaths in 2018 involved an
-opioid, including prescription opioids, heroin. https://www.cdc.gov/drugoverdose/data/index.htm
-In fact, I wanted to gain a better understanding of the prescription drug abuse/opioid crisis, so I analyzed the amount of obtaining a prescription/opioid in a large subset
-of the data on prescribers like specialties who have authorized the count of each drug are people used. I analyzed and visualized all of the available prescription drug
-abuse/opioid crisis by https://github.com/IBM/predict-opioid-prescribers/tree/master/data
-My primary goal is to perform an exploratory data analysis on the prescription drug abuse/opioid crisis and gather insights into its sources.
-
+![Prescription](https://www.youtube.com/results?search_query=%23crisis)
 
 
 
@@ -65,14 +72,14 @@ My primary goal is to perform an exploratory data analysis on the prescription d
 
 
 
-
 ![Opioid Crisis](https://www.drugfreekidscanada.org/wp-content/uploads/2016/07/prescription_drug_list_en.jpg)
 
+
+According to CDC, there are more than 750,000 people have died since 1999 from a drug overdose, and there are two out of three drug overdose deaths in 2018 involved an opioid, including prescription opioids, heroin, which it is a 100,000 per people. https://www.cdc.gov/drugoverdose/data/index.htm
 
 
 
 ## Prescribed Opioids in Prescriber Dataset
-
 
 
 
@@ -92,21 +99,19 @@ My primary goal is to perform an exploratory data analysis on the prescription d
 
 
 
-
 ## Insight: Prescribed Opioids in Prescriber Dataset
 
 
-
-
-1- There are 11 opioid drugs out of the 250 drugs mentioned in the prescribers data
-
-2- 60% of the prescribers on this list are opioid prescribers
-
+There are 11 opioid drug opioid drugs out of the 250 drugs mentioned in the prescriber's data. 
+Also, there are 60% of the prescribers on this list are opioid prescribers.
 
 
 
 ## Prescribed Opioids vs the Total Prescriptions:
 
+
+
+![Graph](https://miro.medium.com/proxy/1*wsPfHmdP96UgoufZJHmVrA.png)
 
 
 
@@ -115,23 +120,7 @@ The number of opioid prescribers out of the total prescribers which come up with
 
 
 
-
-## Insight: Opioid Prescriber count by Speciality and NPI for top 10 specialties:
-
-
-
-
-
-![Insight](https://miro.medium.com/max/1050/1*lfdnSWM9v41gdGpDv_YXpg.png)
-
-
-
-
-
-
-## Graph 1: Opioid Prescribers by Gender:
-
-
+## Graph: Opioid Prescribers by Gender:
 
 
 
@@ -139,38 +128,10 @@ The number of opioid prescribers out of the total prescribers which come up with
 
 
 
-
-
-## Graph 2: Opioid Prescribers by Gender:
-
-
-
-
-
-![Graph](https://miro.medium.com/max/414/1*wsPfHmdP96UgoufZJHmVrA.png)
-
-
-
-
-
 ## Insight: Opioid Prescribers by Gender:
 
 
-
-
-1- The number of non opioid prescribers is similar in the case of Male and Female.
-
-2- Even though prescribed opioids is higher in the case of male, That can be subject to the kind of Specialties male and female prescribers prefer.
-
-
-
-
-## Insight: Opioid Prescriber Count is Grouped by Specialty:
-
-
-
-
-![Insight](https://miro.medium.com/max/1050/1*MrSwbYmVvzGb3fuP1sF3KQ.png)
+The number of non-opioid prescribers is similar in the case of males and females. Even though prescribed opioids are higher in the case of males, that can be subject to the kind of specialties males and females prescribers prefer.
 
 
 
@@ -187,103 +148,41 @@ The number of opioid prescribers out of the total prescribers which come up with
  
  ## Insight: Opioid Prescribers by Specialty
  
- 
- 
- 
-1- Opioid prescriber count by Speciality and NPI for the top 30 specialties.
 
-2- Use of opioids is higher in specialties which involve the use of Pain Killers/Inhibitors.
+Opioid prescribers count by specialty and NPI for the top 30 specialties, the use of opioids is much higher in specialties which involve the use of pain killers or inhibitors.
 
 
-
-
-## Graphs 1: Opioid Prescribers by State
+## Graphs: Opioid Prescribers by State
 
 
 
 
  ![Graphs](https://miro.medium.com/max/1050/1*QOzYNSiMG9jKiNDO2_0hdg.png)
+ 
+ 
+ 
+
+## Insight: Opioid Prescribers by State
 
 
+Opioid Prescriber count by State and NPI for the top 30 states, overview for all Opioid prescribers per state are showing the highest states with drug abuse.
+ 
 
-
-## Graphs 2: Opioid Prescribers by State
-
-
-
-
- ![Graphs](https://miro.medium.com/max/1050/1*iSfhUei9l6qxQDd-woMoKQ.png)
- 
- 
- 
- 
- 
- ## Insight: Opioid Prescribers by State
- 
- 
- 
- 
- 1 - Overview all Opioid prescribers per state are showing the highest states with drug abuse.
- 
- 2- Opioid Prescriber count by State and NPI for the top 30 states
- 
- 3- States like CA, NY, FL, TX have higher opioid prescribers which corresponds with high death rates reported due to opioid overdose.
- 
- 
- 
- 
- 
- ## Graphs: Opioid Prescribers by State
- 
- 
- 
- 
-  ![Graphs](https://miro.medium.com/max/1050/1*fD6XcW1hLu5FIQntn-Dk0g.png)
+  
+  ## Graphs: Opioid Prescribers by State
   
   
   
   
-  
-  ## Insight: Opioid Prescribers by State Based on the map above
-  
-  
-  
-  
-  1- looking specifically on the map at the TOP 12 states for prescription drug abuse
-  
-  2- States in the red areas that show the biggest impact with DRUG ABUSE
-  
-  3- States in the orange areas that show the medium impact with DRUG ABUSE
-  
-  4- States in the green areas that show the lower impact with DRUG ABUSE
-  
-  
-  
-  ## Graphs 1: Opioid Prescribers by State
+  ![Graph](https://miro.medium.com/max/1050/1*iSfhUei9l6qxQDd-woMoKQ.png)
   
   
   
   
-  ![Graph](https://miro.medium.com/max/1050/1*QjmoJteIFfXCOA982s51OQ.png)
+  ## Insight: Opioid Prescribers by State
   
   
-  
-  
-  
-  ## Insight: Total_Opioid Prescribers For All-States
-  
-  
-  
-  
-  1- Overview all Opioid prescribers per state are showing the highest states with drug abuse.
-  
-  2- Opioid Prescriber count by State and NPI for the top 30 states
-  
-  3- Overview for the total_opioids for each state that has the highest amount of opioids
-  
-  4- States like CA, NY, FL, TX have higher opioid prescribers which corresponds with high death rates reported due to opioid overdose.
-  
-  
+  States like CA, NY, FL, TX have the higher opioid prescribers which correspond with high health rates reported due to opioid overdose.
   
   
  ## Graph: Principal Component Analysis(dimensionality reduction)
@@ -333,6 +232,11 @@ prescriptions.
 
 https://search.yahoo.com/search?fr=mcafee&type=E211US714G0&p=What+Should+We+Do+To+Prevent+Prescription+Drug+Abuse%3F
 
+
+## Medium.com
+
+
+https://medium.com/@shemaali8787/prescription-drug-abuse-in-the-united-states-29aa3786032b
 
 
 ## Addition Resources If Interested
