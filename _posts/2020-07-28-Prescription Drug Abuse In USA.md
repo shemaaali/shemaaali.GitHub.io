@@ -24,9 +24,7 @@ My primary goal is to perform an exploratory data analysis on the prescription d
 ### Graph: Opioid Prescribers by State
 
 
-
 ![Graph](https://miro.medium.com/proxy/1*fD6XcW1hLu5FIQntn-Dk0g.png)
-
 
 
 ### Insight: Opioid Prescribers by State Based on the Map Above
