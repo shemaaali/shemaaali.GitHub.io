@@ -82,7 +82,6 @@ According to CDC, there are more than 750,000 people have died since 1999 from a
 ## Prescribed Opioids in Prescriber Dataset
 
 
-
 ~~~
 1 MORPHINE.SULFATE.ER
 2 FENTANYL
@@ -98,7 +97,6 @@ According to CDC, there are more than 750,000 people have died since 1999 from a
 ~~~
 
 
-
 ## Insight: Prescribed Opioids in Prescriber Dataset
 
 
@@ -106,26 +104,19 @@ There are 11 opioid drug opioid drugs out of the 250 drugs mentioned in the pres
 Also, there are 60% of the prescribers on this list are opioid prescribers.
 
 
-
 ## Prescribed Opioids vs the Total Prescriptions:
-
 
 
 ![Graph](https://miro.medium.com/proxy/1*wsPfHmdP96UgoufZJHmVrA.png)
 
 
-
 The number of opioid prescribers out of the total prescribers which come up with about 58.752 % of opioids that have been prescribed.
-
-
 
 
 ## Graph: Opioid Prescribers by Gender:
 
 
-
 ![Graph](https://miro.medium.com/max/699/1*tDCJzzwQL1rkaVNKGPEDdQ.png)
-
 
 
 ## Insight: Opioid Prescribers by Gender:
@@ -134,15 +125,11 @@ The number of opioid prescribers out of the total prescribers which come up with
 The number of non-opioid prescribers is similar in the case of males and females. Even though prescribed opioids are higher in the case of males, that can be subject to the kind of specialties males and females prescribers prefer.
 
 
-
-
 ## Graphs: Opioid Prescribers by Specialty
 
 
 
-
  ![Graphs](https://miro.medium.com/max/1050/1*08PHxPFhxzc7lS7Ar74opw.png)
- 
  
  
  
@@ -155,11 +142,7 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 ## Graphs: Opioid Prescribers by State
 
 
-
-
  ![Graphs](https://miro.medium.com/max/1050/1*QOzYNSiMG9jKiNDO2_0hdg.png)
- 
- 
  
 
 ## Insight: Opioid Prescribers by State
@@ -168,15 +151,10 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 Opioid Prescriber count by State and NPI for the top 30 states, overview for all Opioid prescribers per state are showing the highest states with drug abuse.
  
 
-  
   ## Graphs: Opioid Prescribers by State
   
   
-  
-  
   ![Graph](https://miro.medium.com/max/1050/1*iSfhUei9l6qxQDd-woMoKQ.png)
-  
-  
   
   
   ## Insight: Opioid Prescribers by State
@@ -189,18 +167,11 @@ Opioid Prescriber count by State and NPI for the top 30 states, overview for all
  
  
  
- 
- 
   ![Graphs](https://miro.medium.com/max/1050/1*E1lKyHTX63IjGxyIagGN3A.png)
  
  
  
- 
- 
- 
  ## Insight: Principal Component Analysis(dimensionality reduction)
- 
- 
  
  
  
@@ -209,9 +180,6 @@ First, The analysis goal is bringing down 358 columns to a few factors to descri
 Second, from those new factors, only those will be selected which explains 80% of the total variability in data to classify opioid Prescribers.
 
 Finally, the weightage of original factors in the newly formed factors will be observed to gather insights for a driver analysis.
- 
- 
- 
  
  
  
