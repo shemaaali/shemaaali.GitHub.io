@@ -17,17 +17,8 @@ comments: true
 
 In fact, I wanted to gain a better understanding of the prescription drug abuse/opioid crisis, so I analyzed the amount of obtaining a prescription/opioid in a large subset of the data on prescribers like specialties who have authorized the count of each drug are people used. I analyzed and visualized all of the available prescription drug abuse/opioid crisis by https://github.com/IBM/predict-opioid-prescribers/tree/master/data
 
+
 My primary goal is to perform an exploratory data analysis on the prescription drug abuse/opioid crisis and gather insights into its sources.
-
-
-
-### When Does It Occur? 
-
-
-
-Prescription drug abuse occurs when people who have problems with pain and anxiety take more medications than prescribed, or they take medications not prescribed. People
-think that if one pill helps, two or more benefits more. Other people try to prevent problems by taking medications before the pain comes. Sometimes medications seem to be
-the only thing that makes somebody feel better, but many people are not aware of the risks of prescription drug abuse.
 
 
 ### Graph: Opioid Prescribers by State
@@ -41,13 +32,38 @@ the only thing that makes somebody feel better, but many people are not aware of
 ### Insight: Opioid Prescribers by State Based on the Map Above
 
 
-
 If we look specifically on the map at the TOP 12 states for prescription drug abuse that contain four spot areas each area represent the line of the impact of opioid. States in the red areas that show the biggest impact on drug abuse. States in the orange areas that show the medium impact drug abuse. States in the green and blue areas that show a lower impact on drug abuse.
+
+
+
+## Graph: Opioid_Prescribers Vs Total_Prescribers
+
+
+
+![Graph](https://miro.medium.com/max/1050/1*5WkXu9p3i0ZAfMH6NlniZA.png)
+
 
 
 ### Graph: Total_Opioid Prescribers For All-States
 
+
 ![Graph](https://miro.medium.com/proxy/1*QjmoJteIFfXCOA982s51OQ.png)
+
+
+## Insight: Opioid_Prescribers Vs Total_Prescribers
+
+
+The abuse of prescription drugs is a common problem in the United States among teens and adult people. Some people use prescriptions as medications, but some people use them as recreational drugs. Millions of dollars are spent to prevent prescription drug abuse, and pharmaceutical companies could make medications have less addictive chemicals. It may take more than is needed, and people may become addicted to prescription drugs.
+
+
+
+### When Does It Occur? 
+
+
+Prescription drug abuse occurs when people who have problems with pain and anxiety take more medications than prescribed, or they take medications not prescribed. People
+think that if one pill helps, two or more benefits more. Other people try to prevent problems by taking medications before the pain comes. Sometimes medications seem to be
+the only thing that makes somebody feel better, but many people are not aware of the risks of prescription drug abuse.
+
 
 ### Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
 
@@ -71,17 +87,19 @@ According to CDC, there are more than 750,000 people have died since 1999 from a
 
 
 ~~~
-1 MORPHINE.SULFATE.ER
-2 FENTANYL
-3 OXYCODONE.HCL
-4 OXYCONTIN
-5 MORPHINE.SULFATE
-6 OXYCODONE.ACETAMINOPHEN
-7 HYDROMORPHONE.HCL
-8 METHADONE.HCL
-9 HYDROCODONE.ACETAMINOPHEN
-10 TRAMADOL.HCL
-11 ACETAMINOPHEN.CODEINE
+
+1 Morphine.Sulfate.ER
+2 Fentanyl
+3 Oxycodone.HCL
+4 Oxycontin
+5 Morphine.Sulfate
+6 Oxycodone.Acetaminophen
+7 Hydromorphone.HCL
+8 Methadone.HCL
+9 Hydrocodone.Acetaminophen
+10 Tramadol.HCL
+11 Acetaminophen.Codeine
+
 ~~~
 
 
@@ -129,10 +147,15 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 
 ### Graphs: Opioid Prescribers by State
 
+
  ![Graphs](https://miro.medium.com/max/1050/1*QOzYNSiMG9jKiNDO2_0hdg.png)
+ 
+ 
 ### Insight: Opioid Prescribers by State
 
+
 Opioid Prescriber count by State and NPI for the top 30 states, overview for all Opioid prescribers per state are showing the highest states with drug abuse.
+ 
  
 ### Graphs: Opioid Prescribers by State
   
