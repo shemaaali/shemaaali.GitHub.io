@@ -38,7 +38,7 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 
 
 
-![Graph](https://miro.medium.com/max/1050/1*5WkXu9p3i0ZAfMH6NlniZA.png)
+![Graph](https://https://plotly.com/~shemaaali/1/)
 
 
 
