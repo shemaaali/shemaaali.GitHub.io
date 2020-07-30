@@ -132,7 +132,6 @@ The number of non-opioid prescribers is similar in the case of males and females
 ### Graphs: Opioid Prescribers by Specialty
 
 
-
  ![Graphs](https://miro.medium.com/max/1050/1*08PHxPFhxzc7lS7Ar74opw.png)
  
  
