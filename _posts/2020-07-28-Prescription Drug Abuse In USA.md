@@ -47,11 +47,7 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 
 ### Graph: Total_Opioid Prescribers For All-States
 
-
-
 ![Graph](https://miro.medium.com/proxy/1*QjmoJteIFfXCOA982s51OQ.png)
-
-
 
 ### Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
 
@@ -133,16 +129,11 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 
 ### Graphs: Opioid Prescribers by State
 
-
  ![Graphs](https://miro.medium.com/max/1050/1*QOzYNSiMG9jKiNDO2_0hdg.png)
- 
-
 ### Insight: Opioid Prescribers by State
-
 
 Opioid Prescriber count by State and NPI for the top 30 states, overview for all Opioid prescribers per state are showing the highest states with drug abuse.
  
-
 ### Graphs: Opioid Prescribers by State
   
   
@@ -166,13 +157,9 @@ Opioid Prescriber count by State and NPI for the top 30 states, overview for all
 ### Insight: Principal Component Analysis(dimensionality reduction)
  
  
- 
 First, The analysis goal is bringing down 358 columns to a few factors to describe the data with numeric values.
-
 Second, from those new factors, only those will be selected which explains 80% of the total variability in data to classify opioid Prescribers.
-
 Finally, the weightage of original factors in the newly formed factors will be observed to gather insights for a driver analysis.
- 
  
  
 ### Conclusion:
