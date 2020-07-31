@@ -59,7 +59,7 @@ the only thing that makes somebody feel better, but many people are not aware of
 ## Graph: Total_Opioid Prescribers For All-States
 
 
-![Graph]()
+![Graph](https://github.com/shemaaali/shimadaoud1/blob/master/assets/img/newplot%20(14).png?raw=true)
 
 
 ### Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
