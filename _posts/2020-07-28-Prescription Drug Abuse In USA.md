@@ -144,7 +144,7 @@ Opioid prescribers count by specialty and NPI for the top 30 specialties, the us
 ### Graphs: Opioid Prescribers by State
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~shemaaali/3.embed"></iframe>/
+![Graph](https://github.com/shemaaali/shimadaoud1/blob/master/assets/img/newplot%20(14).png?raw=true)
  
  
 ### Insight: Opioid Prescribers by State
