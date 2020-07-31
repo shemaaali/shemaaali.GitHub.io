@@ -37,7 +37,7 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 ## Graph: Opioid_Prescribers Vs Total_Prescribers
 
 
-<img src='https://plotly.com/~shemaaali/1/'>
+![Graph]('')
 
 
 
