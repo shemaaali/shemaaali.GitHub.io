@@ -37,7 +37,7 @@ If we look specifically on the map at the TOP 12 states for prescription drug ab
 ## Graph: Opioid_Prescribers Vs Total_Prescribers
 
 
-![Graph]('')
+![Graph](newplot (13).png)
 
 
 
@@ -59,7 +59,7 @@ the only thing that makes somebody feel better, but many people are not aware of
 ## Graph: Total_Opioid Prescribers For All-States
 
 
-![Graph](https://plotly.com/~shemaaali/8/.png)
+![Graph]()
 
 
 ### Insight: The Dangers And Negative Consequences Of Prescription Drug Abuse
